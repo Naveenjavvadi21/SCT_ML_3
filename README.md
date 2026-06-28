@@ -96,7 +96,7 @@ Task3/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/cat-dog-classification-svm.git
+git clone https://github.com/Naveenjavvadi21/SCT_ML_3
 ```
 
 Install dependencies:
